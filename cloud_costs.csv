@@ -6,6 +6,3 @@ date,provider,service,cost
 2025-10-02,AWS,EC2,13.10
 2025-10-02,Azure,Compute,10.20
 2025-10-02,GCP,BigQuery,5.10
-2025-10-03,AWS,S3,6.10
-2025-10-03,Azure,SQL,9.70
-2025-10-03,GCP,Compute,4.90
